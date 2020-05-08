@@ -39,7 +39,7 @@ namespace Pr3._3
                 for (double i = a; i <= b; i += h)
                 {
                     double y;
-                    f(6, out y);
+                    f(i, out y);
                     str = str + y + "\n";
                 }
                 label4.Text = str;

@@ -11,3 +11,16 @@ C:\Users\georg\OneDrive\Desktop\Новая папка\Pr2.4\Pr2.4\obj\Debug\netc
 C:\Users\georg\OneDrive\Desktop\Новая папка\Pr2.4\Pr2.4\obj\Debug\netcoreapp3.1\Pr2.4.dll
 C:\Users\georg\OneDrive\Desktop\Новая папка\Pr2.4\Pr2.4\obj\Debug\netcoreapp3.1\Pr2.4.pdb
 C:\Users\georg\OneDrive\Desktop\Новая папка\Pr2.4\Pr2.4\obj\Debug\netcoreapp3.1\Pr2.4.genruntimeconfig.cache
+C:\Users\georg\OneDrive\Desktop\Практика\практика 1 неделя\Pr2.4\Pr2.4\bin\Debug\netcoreapp3.1\Pr2.4.exe
+C:\Users\georg\OneDrive\Desktop\Практика\практика 1 неделя\Pr2.4\Pr2.4\bin\Debug\netcoreapp3.1\Pr2.4.deps.json
+C:\Users\georg\OneDrive\Desktop\Практика\практика 1 неделя\Pr2.4\Pr2.4\bin\Debug\netcoreapp3.1\Pr2.4.runtimeconfig.json
+C:\Users\georg\OneDrive\Desktop\Практика\практика 1 неделя\Pr2.4\Pr2.4\bin\Debug\netcoreapp3.1\Pr2.4.runtimeconfig.dev.json
+C:\Users\georg\OneDrive\Desktop\Практика\практика 1 неделя\Pr2.4\Pr2.4\bin\Debug\netcoreapp3.1\Pr2.4.dll
+C:\Users\georg\OneDrive\Desktop\Практика\практика 1 неделя\Pr2.4\Pr2.4\bin\Debug\netcoreapp3.1\Pr2.4.pdb
+C:\Users\georg\OneDrive\Desktop\Практика\практика 1 неделя\Pr2.4\Pr2.4\obj\Debug\netcoreapp3.1\Pr2.4.csprojAssemblyReference.cache
+C:\Users\georg\OneDrive\Desktop\Практика\практика 1 неделя\Pr2.4\Pr2.4\obj\Debug\netcoreapp3.1\Pr2.4.csproj.CoreCompileInputs.cache
+C:\Users\georg\OneDrive\Desktop\Практика\практика 1 неделя\Pr2.4\Pr2.4\obj\Debug\netcoreapp3.1\Pr2.4.AssemblyInfoInputs.cache
+C:\Users\georg\OneDrive\Desktop\Практика\практика 1 неделя\Pr2.4\Pr2.4\obj\Debug\netcoreapp3.1\Pr2.4.AssemblyInfo.cs
+C:\Users\georg\OneDrive\Desktop\Практика\практика 1 неделя\Pr2.4\Pr2.4\obj\Debug\netcoreapp3.1\Pr2.4.dll
+C:\Users\georg\OneDrive\Desktop\Практика\практика 1 неделя\Pr2.4\Pr2.4\obj\Debug\netcoreapp3.1\Pr2.4.pdb
+C:\Users\georg\OneDrive\Desktop\Практика\практика 1 неделя\Pr2.4\Pr2.4\obj\Debug\netcoreapp3.1\Pr2.4.genruntimeconfig.cache

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\georg\\OneDrive\\Desktop\\Новая папка\\Pr2.4\\Pr2.4\\Pr2.4.csproj",
+      "projectUniqueName": "C:\\Users\\georg\\OneDrive\\Desktop\\Практика\\практика 1 неделя\\Pr2.4\\Pr2.4\\Pr2.4.csproj",
       "projectName": "Pr2.4",
-      "projectPath": "C:\\Users\\georg\\OneDrive\\Desktop\\Новая папка\\Pr2.4\\Pr2.4\\Pr2.4.csproj",
+      "projectPath": "C:\\Users\\georg\\OneDrive\\Desktop\\Практика\\практика 1 неделя\\Pr2.4\\Pr2.4\\Pr2.4.csproj",
       "packagesPath": "C:\\Users\\georg\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\georg\\OneDrive\\Desktop\\Новая папка\\Pr2.4\\Pr2.4\\obj\\",
+      "outputPath": "C:\\Users\\georg\\OneDrive\\Desktop\\Практика\\практика 1 неделя\\Pr2.4\\Pr2.4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\georg\\AppData\\Roaming\\NuGet\\NuGet.Config",

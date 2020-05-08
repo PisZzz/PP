@@ -1,0 +1,10 @@
+C:\Users\georg\source\repos\Pr1.1\Pr1.1\obj\Debug\Pr1.1.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\Pr1.1\Pr1.1\obj\Debug\Pr1._1.Form1.resources
+C:\Users\georg\source\repos\Pr1.1\Pr1.1\obj\Debug\Pr1._1.Properties.Resources.resources
+C:\Users\georg\source\repos\Pr1.1\Pr1.1\obj\Debug\Pr1.1.csproj.GenerateResource.cache
+C:\Users\georg\source\repos\Pr1.1\Pr1.1\obj\Debug\Pr1.1.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\Pr1.1\Pr1.1\bin\Debug\Pr1.1.exe.config
+C:\Users\georg\source\repos\Pr1.1\Pr1.1\bin\Debug\Pr1.1.exe
+C:\Users\georg\source\repos\Pr1.1\Pr1.1\bin\Debug\Pr1.1.pdb
+C:\Users\georg\source\repos\Pr1.1\Pr1.1\obj\Debug\Pr1.1.exe
+C:\Users\georg\source\repos\Pr1.1\Pr1.1\obj\Debug\Pr1.1.pdb

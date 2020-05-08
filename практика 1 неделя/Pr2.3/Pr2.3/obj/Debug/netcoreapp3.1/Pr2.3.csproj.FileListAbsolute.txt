@@ -1,0 +1,26 @@
+C:\Users\georg\source\repos\Pr2.3\Pr2.3\bin\Debug\netcoreapp3.1\Pr2.3.exe
+C:\Users\georg\source\repos\Pr2.3\Pr2.3\bin\Debug\netcoreapp3.1\Pr2.3.deps.json
+C:\Users\georg\source\repos\Pr2.3\Pr2.3\bin\Debug\netcoreapp3.1\Pr2.3.runtimeconfig.json
+C:\Users\georg\source\repos\Pr2.3\Pr2.3\bin\Debug\netcoreapp3.1\Pr2.3.runtimeconfig.dev.json
+C:\Users\georg\source\repos\Pr2.3\Pr2.3\bin\Debug\netcoreapp3.1\Pr2.3.dll
+C:\Users\georg\source\repos\Pr2.3\Pr2.3\bin\Debug\netcoreapp3.1\Pr2.3.pdb
+C:\Users\georg\source\repos\Pr2.3\Pr2.3\obj\Debug\netcoreapp3.1\Pr2.3.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\Pr2.3\Pr2.3\obj\Debug\netcoreapp3.1\Pr2.3.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\Pr2.3\Pr2.3\obj\Debug\netcoreapp3.1\Pr2.3.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\Pr2.3\Pr2.3\obj\Debug\netcoreapp3.1\Pr2.3.AssemblyInfo.cs
+C:\Users\georg\source\repos\Pr2.3\Pr2.3\obj\Debug\netcoreapp3.1\Pr2.3.dll
+C:\Users\georg\source\repos\Pr2.3\Pr2.3\obj\Debug\netcoreapp3.1\Pr2.3.pdb
+C:\Users\georg\source\repos\Pr2.3\Pr2.3\obj\Debug\netcoreapp3.1\Pr2.3.genruntimeconfig.cache
+C:\Users\georg\OneDrive\Desktop\Новая папка\Pr2.3\Pr2.3\bin\Debug\netcoreapp3.1\Pr2.3.exe
+C:\Users\georg\OneDrive\Desktop\Новая папка\Pr2.3\Pr2.3\bin\Debug\netcoreapp3.1\Pr2.3.deps.json
+C:\Users\georg\OneDrive\Desktop\Новая папка\Pr2.3\Pr2.3\bin\Debug\netcoreapp3.1\Pr2.3.runtimeconfig.json
+C:\Users\georg\OneDrive\Desktop\Новая папка\Pr2.3\Pr2.3\bin\Debug\netcoreapp3.1\Pr2.3.runtimeconfig.dev.json
+C:\Users\georg\OneDrive\Desktop\Новая папка\Pr2.3\Pr2.3\bin\Debug\netcoreapp3.1\Pr2.3.dll
+C:\Users\georg\OneDrive\Desktop\Новая папка\Pr2.3\Pr2.3\bin\Debug\netcoreapp3.1\Pr2.3.pdb
+C:\Users\georg\OneDrive\Desktop\Новая папка\Pr2.3\Pr2.3\obj\Debug\netcoreapp3.1\Pr2.3.csprojAssemblyReference.cache
+C:\Users\georg\OneDrive\Desktop\Новая папка\Pr2.3\Pr2.3\obj\Debug\netcoreapp3.1\Pr2.3.csproj.CoreCompileInputs.cache
+C:\Users\georg\OneDrive\Desktop\Новая папка\Pr2.3\Pr2.3\obj\Debug\netcoreapp3.1\Pr2.3.AssemblyInfoInputs.cache
+C:\Users\georg\OneDrive\Desktop\Новая папка\Pr2.3\Pr2.3\obj\Debug\netcoreapp3.1\Pr2.3.AssemblyInfo.cs
+C:\Users\georg\OneDrive\Desktop\Новая папка\Pr2.3\Pr2.3\obj\Debug\netcoreapp3.1\Pr2.3.dll
+C:\Users\georg\OneDrive\Desktop\Новая папка\Pr2.3\Pr2.3\obj\Debug\netcoreapp3.1\Pr2.3.pdb
+C:\Users\georg\OneDrive\Desktop\Новая папка\Pr2.3\Pr2.3\obj\Debug\netcoreapp3.1\Pr2.3.genruntimeconfig.cache

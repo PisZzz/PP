@@ -1,0 +1,20 @@
+C:\Users\georg\source\repos\Pr2.1\Pr2.1\bin\Debug\Pr2.1.exe.config
+C:\Users\georg\source\repos\Pr2.1\Pr2.1\bin\Debug\Pr2.1.exe
+C:\Users\georg\source\repos\Pr2.1\Pr2.1\bin\Debug\Pr2.1.pdb
+C:\Users\georg\source\repos\Pr2.1\Pr2.1\obj\Debug\Pr2.1.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\Pr2.1\Pr2.1\obj\Debug\Pr2._1.Form1.resources
+C:\Users\georg\source\repos\Pr2.1\Pr2.1\obj\Debug\Pr2._1.Properties.Resources.resources
+C:\Users\georg\source\repos\Pr2.1\Pr2.1\obj\Debug\Pr2.1.csproj.GenerateResource.cache
+C:\Users\georg\source\repos\Pr2.1\Pr2.1\obj\Debug\Pr2.1.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\Pr2.1\Pr2.1\obj\Debug\Pr2.1.exe
+C:\Users\georg\source\repos\Pr2.1\Pr2.1\obj\Debug\Pr2.1.pdb
+C:\Users\georg\OneDrive\Desktop\Новая папка\Pr2.1 WF\Pr2.1\bin\Debug\Pr2.1.exe.config
+C:\Users\georg\OneDrive\Desktop\Новая папка\Pr2.1 WF\Pr2.1\bin\Debug\Pr2.1.exe
+C:\Users\georg\OneDrive\Desktop\Новая папка\Pr2.1 WF\Pr2.1\bin\Debug\Pr2.1.pdb
+C:\Users\georg\OneDrive\Desktop\Новая папка\Pr2.1 WF\Pr2.1\obj\Debug\Pr2.1.csprojAssemblyReference.cache
+C:\Users\georg\OneDrive\Desktop\Новая папка\Pr2.1 WF\Pr2.1\obj\Debug\Pr2._1.Form1.resources
+C:\Users\georg\OneDrive\Desktop\Новая папка\Pr2.1 WF\Pr2.1\obj\Debug\Pr2._1.Properties.Resources.resources
+C:\Users\georg\OneDrive\Desktop\Новая папка\Pr2.1 WF\Pr2.1\obj\Debug\Pr2.1.csproj.GenerateResource.cache
+C:\Users\georg\OneDrive\Desktop\Новая папка\Pr2.1 WF\Pr2.1\obj\Debug\Pr2.1.csproj.CoreCompileInputs.cache
+C:\Users\georg\OneDrive\Desktop\Новая папка\Pr2.1 WF\Pr2.1\obj\Debug\Pr2.1.exe
+C:\Users\georg\OneDrive\Desktop\Новая папка\Pr2.1 WF\Pr2.1\obj\Debug\Pr2.1.pdb

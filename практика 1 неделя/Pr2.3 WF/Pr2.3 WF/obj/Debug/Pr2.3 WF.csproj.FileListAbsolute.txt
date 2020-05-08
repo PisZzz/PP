@@ -1,0 +1,10 @@
+C:\Users\georg\source\repos\Pr2.3 WF\Pr2.3 WF\bin\Debug\Pr2.3 WF.exe.config
+C:\Users\georg\source\repos\Pr2.3 WF\Pr2.3 WF\bin\Debug\Pr2.3 WF.exe
+C:\Users\georg\source\repos\Pr2.3 WF\Pr2.3 WF\bin\Debug\Pr2.3 WF.pdb
+C:\Users\georg\source\repos\Pr2.3 WF\Pr2.3 WF\obj\Debug\Pr2.3 WF.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\Pr2.3 WF\Pr2.3 WF\obj\Debug\Pr2._3_WF.Form1.resources
+C:\Users\georg\source\repos\Pr2.3 WF\Pr2.3 WF\obj\Debug\Pr2._3_WF.Properties.Resources.resources
+C:\Users\georg\source\repos\Pr2.3 WF\Pr2.3 WF\obj\Debug\Pr2.3 WF.csproj.GenerateResource.cache
+C:\Users\georg\source\repos\Pr2.3 WF\Pr2.3 WF\obj\Debug\Pr2.3 WF.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\Pr2.3 WF\Pr2.3 WF\obj\Debug\Pr2.3 WF.exe
+C:\Users\georg\source\repos\Pr2.3 WF\Pr2.3 WF\obj\Debug\Pr2.3 WF.pdb

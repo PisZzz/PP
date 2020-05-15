@@ -1,0 +1,13 @@
+C:\Users\georg\OneDrive\Desktop\Практика\практика 2 неделя\Pr 3.3\Pr 3.3\obj\Debug\netcoreapp3.1\Pr 3.3.csprojAssemblyReference.cache
+C:\Users\georg\OneDrive\Desktop\Практика\практика 2 неделя\Pr 3.3\Pr 3.3\obj\Debug\netcoreapp3.1\Pr 3.3.csproj.CoreCompileInputs.cache
+C:\Users\georg\OneDrive\Desktop\Практика\практика 2 неделя\Pr 3.3\Pr 3.3\obj\Debug\netcoreapp3.1\Pr 3.3.AssemblyInfoInputs.cache
+C:\Users\georg\OneDrive\Desktop\Практика\практика 2 неделя\Pr 3.3\Pr 3.3\obj\Debug\netcoreapp3.1\Pr 3.3.AssemblyInfo.cs
+C:\Users\georg\OneDrive\Desktop\Практика\практика 2 неделя\Pr 3.3\Pr 3.3\bin\Debug\netcoreapp3.1\Pr 3.3.exe
+C:\Users\georg\OneDrive\Desktop\Практика\практика 2 неделя\Pr 3.3\Pr 3.3\bin\Debug\netcoreapp3.1\Pr 3.3.deps.json
+C:\Users\georg\OneDrive\Desktop\Практика\практика 2 неделя\Pr 3.3\Pr 3.3\bin\Debug\netcoreapp3.1\Pr 3.3.runtimeconfig.json
+C:\Users\georg\OneDrive\Desktop\Практика\практика 2 неделя\Pr 3.3\Pr 3.3\bin\Debug\netcoreapp3.1\Pr 3.3.runtimeconfig.dev.json
+C:\Users\georg\OneDrive\Desktop\Практика\практика 2 неделя\Pr 3.3\Pr 3.3\bin\Debug\netcoreapp3.1\Pr 3.3.dll
+C:\Users\georg\OneDrive\Desktop\Практика\практика 2 неделя\Pr 3.3\Pr 3.3\bin\Debug\netcoreapp3.1\Pr 3.3.pdb
+C:\Users\georg\OneDrive\Desktop\Практика\практика 2 неделя\Pr 3.3\Pr 3.3\obj\Debug\netcoreapp3.1\Pr 3.3.dll
+C:\Users\georg\OneDrive\Desktop\Практика\практика 2 неделя\Pr 3.3\Pr 3.3\obj\Debug\netcoreapp3.1\Pr 3.3.pdb
+C:\Users\georg\OneDrive\Desktop\Практика\практика 2 неделя\Pr 3.3\Pr 3.3\obj\Debug\netcoreapp3.1\Pr 3.3.genruntimeconfig.cache

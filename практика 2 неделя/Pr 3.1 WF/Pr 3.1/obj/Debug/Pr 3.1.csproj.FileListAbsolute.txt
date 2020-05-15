@@ -1,0 +1,30 @@
+C:\Users\georg\source\repos\Pr 3.1\Pr 3.1\bin\Debug\Pr 3.1.exe.config
+C:\Users\georg\source\repos\Pr 3.1\Pr 3.1\bin\Debug\Pr 3.1.exe
+C:\Users\georg\source\repos\Pr 3.1\Pr 3.1\bin\Debug\Pr 3.1.pdb
+C:\Users\georg\source\repos\Pr 3.1\Pr 3.1\obj\Debug\Pr 3.1.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\Pr 3.1\Pr 3.1\obj\Debug\Pr_3._1.Form1.resources
+C:\Users\georg\source\repos\Pr 3.1\Pr 3.1\obj\Debug\Pr_3._1.Properties.Resources.resources
+C:\Users\georg\source\repos\Pr 3.1\Pr 3.1\obj\Debug\Pr 3.1.csproj.GenerateResource.cache
+C:\Users\georg\source\repos\Pr 3.1\Pr 3.1\obj\Debug\Pr 3.1.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\Pr 3.1\Pr 3.1\obj\Debug\Pr 3.1.exe
+C:\Users\georg\source\repos\Pr 3.1\Pr 3.1\obj\Debug\Pr 3.1.pdb
+C:\Users\georg\source\repos\Pr 3.1 WF\Pr 3.1\bin\Debug\Pr 3.1.exe.config
+C:\Users\georg\source\repos\Pr 3.1 WF\Pr 3.1\bin\Debug\Pr 3.1.exe
+C:\Users\georg\source\repos\Pr 3.1 WF\Pr 3.1\bin\Debug\Pr 3.1.pdb
+C:\Users\georg\source\repos\Pr 3.1 WF\Pr 3.1\obj\Debug\Pr 3.1.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\Pr 3.1 WF\Pr 3.1\obj\Debug\Pr_3._1.Form1.resources
+C:\Users\georg\source\repos\Pr 3.1 WF\Pr 3.1\obj\Debug\Pr_3._1.Properties.Resources.resources
+C:\Users\georg\source\repos\Pr 3.1 WF\Pr 3.1\obj\Debug\Pr 3.1.csproj.GenerateResource.cache
+C:\Users\georg\source\repos\Pr 3.1 WF\Pr 3.1\obj\Debug\Pr 3.1.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\Pr 3.1 WF\Pr 3.1\obj\Debug\Pr 3.1.exe
+C:\Users\georg\source\repos\Pr 3.1 WF\Pr 3.1\obj\Debug\Pr 3.1.pdb
+C:\Users\georg\OneDrive\Desktop\Практика\практика 2 неделя\Pr 3.1 WF\Pr 3.1\bin\Debug\Pr 3.1.exe.config
+C:\Users\georg\OneDrive\Desktop\Практика\практика 2 неделя\Pr 3.1 WF\Pr 3.1\bin\Debug\Pr 3.1.exe
+C:\Users\georg\OneDrive\Desktop\Практика\практика 2 неделя\Pr 3.1 WF\Pr 3.1\bin\Debug\Pr 3.1.pdb
+C:\Users\georg\OneDrive\Desktop\Практика\практика 2 неделя\Pr 3.1 WF\Pr 3.1\obj\Debug\Pr 3.1.csprojAssemblyReference.cache
+C:\Users\georg\OneDrive\Desktop\Практика\практика 2 неделя\Pr 3.1 WF\Pr 3.1\obj\Debug\Pr_3._1.Form1.resources
+C:\Users\georg\OneDrive\Desktop\Практика\практика 2 неделя\Pr 3.1 WF\Pr 3.1\obj\Debug\Pr_3._1.Properties.Resources.resources
+C:\Users\georg\OneDrive\Desktop\Практика\практика 2 неделя\Pr 3.1 WF\Pr 3.1\obj\Debug\Pr 3.1.csproj.GenerateResource.cache
+C:\Users\georg\OneDrive\Desktop\Практика\практика 2 неделя\Pr 3.1 WF\Pr 3.1\obj\Debug\Pr 3.1.csproj.CoreCompileInputs.cache
+C:\Users\georg\OneDrive\Desktop\Практика\практика 2 неделя\Pr 3.1 WF\Pr 3.1\obj\Debug\Pr 3.1.exe
+C:\Users\georg\OneDrive\Desktop\Практика\практика 2 неделя\Pr 3.1 WF\Pr 3.1\obj\Debug\Pr 3.1.pdb

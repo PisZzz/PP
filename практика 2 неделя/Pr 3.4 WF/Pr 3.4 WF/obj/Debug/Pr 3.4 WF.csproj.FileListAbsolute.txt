@@ -1,0 +1,20 @@
+C:\Users\georg\source\repos\Pr 3.4 WF\Pr 3.4 WF\obj\Debug\Pr 3.4 WF.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\Pr 3.4 WF\Pr 3.4 WF\obj\Debug\Pr_3._4_WF.Form1.resources
+C:\Users\georg\source\repos\Pr 3.4 WF\Pr 3.4 WF\obj\Debug\Pr_3._4_WF.Properties.Resources.resources
+C:\Users\georg\source\repos\Pr 3.4 WF\Pr 3.4 WF\obj\Debug\Pr 3.4 WF.csproj.GenerateResource.cache
+C:\Users\georg\source\repos\Pr 3.4 WF\Pr 3.4 WF\obj\Debug\Pr 3.4 WF.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\Pr 3.4 WF\Pr 3.4 WF\bin\Debug\Pr 3.4 WF.exe.config
+C:\Users\georg\source\repos\Pr 3.4 WF\Pr 3.4 WF\bin\Debug\Pr 3.4 WF.exe
+C:\Users\georg\source\repos\Pr 3.4 WF\Pr 3.4 WF\bin\Debug\Pr 3.4 WF.pdb
+C:\Users\georg\source\repos\Pr 3.4 WF\Pr 3.4 WF\obj\Debug\Pr 3.4 WF.exe
+C:\Users\georg\source\repos\Pr 3.4 WF\Pr 3.4 WF\obj\Debug\Pr 3.4 WF.pdb
+C:\Users\georg\OneDrive\Desktop\Практика\практика 2 неделя\Pr 3.4 WF\Pr 3.4 WF\bin\Debug\Pr 3.4 WF.exe.config
+C:\Users\georg\OneDrive\Desktop\Практика\практика 2 неделя\Pr 3.4 WF\Pr 3.4 WF\bin\Debug\Pr 3.4 WF.exe
+C:\Users\georg\OneDrive\Desktop\Практика\практика 2 неделя\Pr 3.4 WF\Pr 3.4 WF\bin\Debug\Pr 3.4 WF.pdb
+C:\Users\georg\OneDrive\Desktop\Практика\практика 2 неделя\Pr 3.4 WF\Pr 3.4 WF\obj\Debug\Pr 3.4 WF.csprojAssemblyReference.cache
+C:\Users\georg\OneDrive\Desktop\Практика\практика 2 неделя\Pr 3.4 WF\Pr 3.4 WF\obj\Debug\Pr_3._4_WF.Form1.resources
+C:\Users\georg\OneDrive\Desktop\Практика\практика 2 неделя\Pr 3.4 WF\Pr 3.4 WF\obj\Debug\Pr_3._4_WF.Properties.Resources.resources
+C:\Users\georg\OneDrive\Desktop\Практика\практика 2 неделя\Pr 3.4 WF\Pr 3.4 WF\obj\Debug\Pr 3.4 WF.csproj.GenerateResource.cache
+C:\Users\georg\OneDrive\Desktop\Практика\практика 2 неделя\Pr 3.4 WF\Pr 3.4 WF\obj\Debug\Pr 3.4 WF.csproj.CoreCompileInputs.cache
+C:\Users\georg\OneDrive\Desktop\Практика\практика 2 неделя\Pr 3.4 WF\Pr 3.4 WF\obj\Debug\Pr 3.4 WF.exe
+C:\Users\georg\OneDrive\Desktop\Практика\практика 2 неделя\Pr 3.4 WF\Pr 3.4 WF\obj\Debug\Pr 3.4 WF.pdb

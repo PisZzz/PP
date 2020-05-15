@@ -1,0 +1,13 @@
+C:\Users\georg\OneDrive\Desktop\Практика\практика 2 неделя\Pr 1.2\Pr 1.2\bin\Debug\netcoreapp3.1\Pr 1.2.exe
+C:\Users\georg\OneDrive\Desktop\Практика\практика 2 неделя\Pr 1.2\Pr 1.2\bin\Debug\netcoreapp3.1\Pr 1.2.deps.json
+C:\Users\georg\OneDrive\Desktop\Практика\практика 2 неделя\Pr 1.2\Pr 1.2\bin\Debug\netcoreapp3.1\Pr 1.2.runtimeconfig.json
+C:\Users\georg\OneDrive\Desktop\Практика\практика 2 неделя\Pr 1.2\Pr 1.2\bin\Debug\netcoreapp3.1\Pr 1.2.runtimeconfig.dev.json
+C:\Users\georg\OneDrive\Desktop\Практика\практика 2 неделя\Pr 1.2\Pr 1.2\bin\Debug\netcoreapp3.1\Pr 1.2.dll
+C:\Users\georg\OneDrive\Desktop\Практика\практика 2 неделя\Pr 1.2\Pr 1.2\bin\Debug\netcoreapp3.1\Pr 1.2.pdb
+C:\Users\georg\OneDrive\Desktop\Практика\практика 2 неделя\Pr 1.2\Pr 1.2\obj\Debug\netcoreapp3.1\Pr 1.2.csprojAssemblyReference.cache
+C:\Users\georg\OneDrive\Desktop\Практика\практика 2 неделя\Pr 1.2\Pr 1.2\obj\Debug\netcoreapp3.1\Pr 1.2.csproj.CoreCompileInputs.cache
+C:\Users\georg\OneDrive\Desktop\Практика\практика 2 неделя\Pr 1.2\Pr 1.2\obj\Debug\netcoreapp3.1\Pr 1.2.AssemblyInfoInputs.cache
+C:\Users\georg\OneDrive\Desktop\Практика\практика 2 неделя\Pr 1.2\Pr 1.2\obj\Debug\netcoreapp3.1\Pr 1.2.AssemblyInfo.cs
+C:\Users\georg\OneDrive\Desktop\Практика\практика 2 неделя\Pr 1.2\Pr 1.2\obj\Debug\netcoreapp3.1\Pr 1.2.dll
+C:\Users\georg\OneDrive\Desktop\Практика\практика 2 неделя\Pr 1.2\Pr 1.2\obj\Debug\netcoreapp3.1\Pr 1.2.pdb
+C:\Users\georg\OneDrive\Desktop\Практика\практика 2 неделя\Pr 1.2\Pr 1.2\obj\Debug\netcoreapp3.1\Pr 1.2.genruntimeconfig.cache

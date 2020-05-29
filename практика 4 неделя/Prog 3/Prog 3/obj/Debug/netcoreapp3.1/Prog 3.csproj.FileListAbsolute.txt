@@ -1,0 +1,39 @@
+C:\Users\georg\source\repos\Prog 3\Prog 3\obj\Debug\netcoreapp3.1\Prog 3.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\Prog 3\Prog 3\obj\Debug\netcoreapp3.1\Prog 3.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\Prog 3\Prog 3\obj\Debug\netcoreapp3.1\Prog 3.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\Prog 3\Prog 3\obj\Debug\netcoreapp3.1\Prog 3.AssemblyInfo.cs
+C:\Users\georg\source\repos\Prog 3\Prog 3\bin\Debug\netcoreapp3.1\Prog 3.exe
+C:\Users\georg\source\repos\Prog 3\Prog 3\bin\Debug\netcoreapp3.1\Prog 3.deps.json
+C:\Users\georg\source\repos\Prog 3\Prog 3\bin\Debug\netcoreapp3.1\Prog 3.runtimeconfig.json
+C:\Users\georg\source\repos\Prog 3\Prog 3\bin\Debug\netcoreapp3.1\Prog 3.runtimeconfig.dev.json
+C:\Users\georg\source\repos\Prog 3\Prog 3\bin\Debug\netcoreapp3.1\Prog 3.dll
+C:\Users\georg\source\repos\Prog 3\Prog 3\bin\Debug\netcoreapp3.1\Prog 3.pdb
+C:\Users\georg\source\repos\Prog 3\Prog 3\obj\Debug\netcoreapp3.1\Prog 3.dll
+C:\Users\georg\source\repos\Prog 3\Prog 3\obj\Debug\netcoreapp3.1\Prog 3.pdb
+C:\Users\georg\source\repos\Prog 3\Prog 3\obj\Debug\netcoreapp3.1\Prog 3.genruntimeconfig.cache
+C:\Users\georg\OneDrive\Desktop\Prog 3\Prog 3\bin\Debug\netcoreapp3.1\Prog 3.exe
+C:\Users\georg\OneDrive\Desktop\Prog 3\Prog 3\bin\Debug\netcoreapp3.1\Prog 3.deps.json
+C:\Users\georg\OneDrive\Desktop\Prog 3\Prog 3\bin\Debug\netcoreapp3.1\Prog 3.runtimeconfig.json
+C:\Users\georg\OneDrive\Desktop\Prog 3\Prog 3\bin\Debug\netcoreapp3.1\Prog 3.runtimeconfig.dev.json
+C:\Users\georg\OneDrive\Desktop\Prog 3\Prog 3\bin\Debug\netcoreapp3.1\Prog 3.dll
+C:\Users\georg\OneDrive\Desktop\Prog 3\Prog 3\bin\Debug\netcoreapp3.1\Prog 3.pdb
+C:\Users\georg\OneDrive\Desktop\Prog 3\Prog 3\obj\Debug\netcoreapp3.1\Prog 3.csprojAssemblyReference.cache
+C:\Users\georg\OneDrive\Desktop\Prog 3\Prog 3\obj\Debug\netcoreapp3.1\Prog 3.csproj.CoreCompileInputs.cache
+C:\Users\georg\OneDrive\Desktop\Prog 3\Prog 3\obj\Debug\netcoreapp3.1\Prog 3.AssemblyInfoInputs.cache
+C:\Users\georg\OneDrive\Desktop\Prog 3\Prog 3\obj\Debug\netcoreapp3.1\Prog 3.AssemblyInfo.cs
+C:\Users\georg\OneDrive\Desktop\Prog 3\Prog 3\obj\Debug\netcoreapp3.1\Prog 3.dll
+C:\Users\georg\OneDrive\Desktop\Prog 3\Prog 3\obj\Debug\netcoreapp3.1\Prog 3.pdb
+C:\Users\georg\OneDrive\Desktop\Prog 3\Prog 3\obj\Debug\netcoreapp3.1\Prog 3.genruntimeconfig.cache
+C:\Users\georg\OneDrive\Desktop\Практика\практика 4 неделя\Prog 3\Prog 3\bin\Debug\netcoreapp3.1\Prog 3.exe
+C:\Users\georg\OneDrive\Desktop\Практика\практика 4 неделя\Prog 3\Prog 3\bin\Debug\netcoreapp3.1\Prog 3.deps.json
+C:\Users\georg\OneDrive\Desktop\Практика\практика 4 неделя\Prog 3\Prog 3\bin\Debug\netcoreapp3.1\Prog 3.runtimeconfig.json
+C:\Users\georg\OneDrive\Desktop\Практика\практика 4 неделя\Prog 3\Prog 3\bin\Debug\netcoreapp3.1\Prog 3.runtimeconfig.dev.json
+C:\Users\georg\OneDrive\Desktop\Практика\практика 4 неделя\Prog 3\Prog 3\bin\Debug\netcoreapp3.1\Prog 3.dll
+C:\Users\georg\OneDrive\Desktop\Практика\практика 4 неделя\Prog 3\Prog 3\bin\Debug\netcoreapp3.1\Prog 3.pdb
+C:\Users\georg\OneDrive\Desktop\Практика\практика 4 неделя\Prog 3\Prog 3\obj\Debug\netcoreapp3.1\Prog 3.csprojAssemblyReference.cache
+C:\Users\georg\OneDrive\Desktop\Практика\практика 4 неделя\Prog 3\Prog 3\obj\Debug\netcoreapp3.1\Prog 3.csproj.CoreCompileInputs.cache
+C:\Users\georg\OneDrive\Desktop\Практика\практика 4 неделя\Prog 3\Prog 3\obj\Debug\netcoreapp3.1\Prog 3.AssemblyInfoInputs.cache
+C:\Users\georg\OneDrive\Desktop\Практика\практика 4 неделя\Prog 3\Prog 3\obj\Debug\netcoreapp3.1\Prog 3.AssemblyInfo.cs
+C:\Users\georg\OneDrive\Desktop\Практика\практика 4 неделя\Prog 3\Prog 3\obj\Debug\netcoreapp3.1\Prog 3.dll
+C:\Users\georg\OneDrive\Desktop\Практика\практика 4 неделя\Prog 3\Prog 3\obj\Debug\netcoreapp3.1\Prog 3.pdb
+C:\Users\georg\OneDrive\Desktop\Практика\практика 4 неделя\Prog 3\Prog 3\obj\Debug\netcoreapp3.1\Prog 3.genruntimeconfig.cache

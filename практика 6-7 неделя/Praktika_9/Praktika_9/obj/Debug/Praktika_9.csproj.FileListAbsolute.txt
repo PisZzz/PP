@@ -1,0 +1,20 @@
+C:\Users\georg\source\repos\Praktika_9\Praktika_9\bin\Debug\Praktika_9.exe.config
+C:\Users\georg\source\repos\Praktika_9\Praktika_9\bin\Debug\Praktika_9.exe
+C:\Users\georg\source\repos\Praktika_9\Praktika_9\bin\Debug\Praktika_9.pdb
+C:\Users\georg\source\repos\Praktika_9\Praktika_9\obj\Debug\Praktika_9.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\Praktika_9\Praktika_9\obj\Debug\Praktika_9.Form1.resources
+C:\Users\georg\source\repos\Praktika_9\Praktika_9\obj\Debug\Praktika_9.Properties.Resources.resources
+C:\Users\georg\source\repos\Praktika_9\Praktika_9\obj\Debug\Praktika_9.csproj.GenerateResource.cache
+C:\Users\georg\source\repos\Praktika_9\Praktika_9\obj\Debug\Praktika_9.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\Praktika_9\Praktika_9\obj\Debug\Praktika_9.exe
+C:\Users\georg\source\repos\Praktika_9\Praktika_9\obj\Debug\Praktika_9.pdb
+C:\Users\georg\OneDrive\Desktop\Практика\практика 6-7 неделя\Praktika_9\Praktika_9\bin\Debug\Praktika_9.exe.config
+C:\Users\georg\OneDrive\Desktop\Практика\практика 6-7 неделя\Praktika_9\Praktika_9\bin\Debug\Praktika_9.exe
+C:\Users\georg\OneDrive\Desktop\Практика\практика 6-7 неделя\Praktika_9\Praktika_9\bin\Debug\Praktika_9.pdb
+C:\Users\georg\OneDrive\Desktop\Практика\практика 6-7 неделя\Praktika_9\Praktika_9\obj\Debug\Praktika_9.csprojAssemblyReference.cache
+C:\Users\georg\OneDrive\Desktop\Практика\практика 6-7 неделя\Praktika_9\Praktika_9\obj\Debug\Praktika_9.Form1.resources
+C:\Users\georg\OneDrive\Desktop\Практика\практика 6-7 неделя\Praktika_9\Praktika_9\obj\Debug\Praktika_9.Properties.Resources.resources
+C:\Users\georg\OneDrive\Desktop\Практика\практика 6-7 неделя\Praktika_9\Praktika_9\obj\Debug\Praktika_9.csproj.GenerateResource.cache
+C:\Users\georg\OneDrive\Desktop\Практика\практика 6-7 неделя\Praktika_9\Praktika_9\obj\Debug\Praktika_9.csproj.CoreCompileInputs.cache
+C:\Users\georg\OneDrive\Desktop\Практика\практика 6-7 неделя\Praktika_9\Praktika_9\obj\Debug\Praktika_9.exe
+C:\Users\georg\OneDrive\Desktop\Практика\практика 6-7 неделя\Praktika_9\Praktika_9\obj\Debug\Praktika_9.pdb

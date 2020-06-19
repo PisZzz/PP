@@ -1,0 +1,20 @@
+C:\Users\georg\source\repos\Prakika_18\Prakika_18\bin\Debug\Prakika_18.exe.config
+C:\Users\georg\source\repos\Prakika_18\Prakika_18\bin\Debug\Prakika_18.exe
+C:\Users\georg\source\repos\Prakika_18\Prakika_18\bin\Debug\Prakika_18.pdb
+C:\Users\georg\source\repos\Prakika_18\Prakika_18\obj\Debug\Prakika_18.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\Prakika_18\Prakika_18\obj\Debug\Prakika_18.Form1.resources
+C:\Users\georg\source\repos\Prakika_18\Prakika_18\obj\Debug\Prakika_18.Properties.Resources.resources
+C:\Users\georg\source\repos\Prakika_18\Prakika_18\obj\Debug\Prakika_18.csproj.GenerateResource.cache
+C:\Users\georg\source\repos\Prakika_18\Prakika_18\obj\Debug\Prakika_18.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\Prakika_18\Prakika_18\obj\Debug\Prakika_18.exe
+C:\Users\georg\source\repos\Prakika_18\Prakika_18\obj\Debug\Prakika_18.pdb
+C:\Users\georg\OneDrive\Desktop\Практика\практика 6-7 неделя\Praktika_18\Prakika_18\bin\Debug\Prakika_18.exe.config
+C:\Users\georg\OneDrive\Desktop\Практика\практика 6-7 неделя\Praktika_18\Prakika_18\bin\Debug\Prakika_18.exe
+C:\Users\georg\OneDrive\Desktop\Практика\практика 6-7 неделя\Praktika_18\Prakika_18\bin\Debug\Prakika_18.pdb
+C:\Users\georg\OneDrive\Desktop\Практика\практика 6-7 неделя\Praktika_18\Prakika_18\obj\Debug\Prakika_18.csprojAssemblyReference.cache
+C:\Users\georg\OneDrive\Desktop\Практика\практика 6-7 неделя\Praktika_18\Prakika_18\obj\Debug\Prakika_18.Form1.resources
+C:\Users\georg\OneDrive\Desktop\Практика\практика 6-7 неделя\Praktika_18\Prakika_18\obj\Debug\Prakika_18.Properties.Resources.resources
+C:\Users\georg\OneDrive\Desktop\Практика\практика 6-7 неделя\Praktika_18\Prakika_18\obj\Debug\Prakika_18.csproj.GenerateResource.cache
+C:\Users\georg\OneDrive\Desktop\Практика\практика 6-7 неделя\Praktika_18\Prakika_18\obj\Debug\Prakika_18.csproj.CoreCompileInputs.cache
+C:\Users\georg\OneDrive\Desktop\Практика\практика 6-7 неделя\Praktika_18\Prakika_18\obj\Debug\Prakika_18.exe
+C:\Users\georg\OneDrive\Desktop\Практика\практика 6-7 неделя\Praktika_18\Prakika_18\obj\Debug\Prakika_18.pdb

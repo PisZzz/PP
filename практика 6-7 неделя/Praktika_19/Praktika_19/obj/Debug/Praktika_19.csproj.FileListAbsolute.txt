@@ -1,0 +1,20 @@
+C:\Users\georg\source\repos\Praktika_19\Praktika_19\bin\Debug\Praktika_19.exe.config
+C:\Users\georg\source\repos\Praktika_19\Praktika_19\bin\Debug\Praktika_19.exe
+C:\Users\georg\source\repos\Praktika_19\Praktika_19\bin\Debug\Praktika_19.pdb
+C:\Users\georg\source\repos\Praktika_19\Praktika_19\obj\Debug\Praktika_19.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\Praktika_19\Praktika_19\obj\Debug\Praktika_19.Form1.resources
+C:\Users\georg\source\repos\Praktika_19\Praktika_19\obj\Debug\Praktika_19.Properties.Resources.resources
+C:\Users\georg\source\repos\Praktika_19\Praktika_19\obj\Debug\Praktika_19.csproj.GenerateResource.cache
+C:\Users\georg\source\repos\Praktika_19\Praktika_19\obj\Debug\Praktika_19.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\Praktika_19\Praktika_19\obj\Debug\Praktika_19.exe
+C:\Users\georg\source\repos\Praktika_19\Praktika_19\obj\Debug\Praktika_19.pdb
+C:\Users\georg\OneDrive\Desktop\Практика\практика 6-7 неделя\Praktika_19\Praktika_19\bin\Debug\Praktika_19.exe.config
+C:\Users\georg\OneDrive\Desktop\Практика\практика 6-7 неделя\Praktika_19\Praktika_19\bin\Debug\Praktika_19.exe
+C:\Users\georg\OneDrive\Desktop\Практика\практика 6-7 неделя\Praktika_19\Praktika_19\bin\Debug\Praktika_19.pdb
+C:\Users\georg\OneDrive\Desktop\Практика\практика 6-7 неделя\Praktika_19\Praktika_19\obj\Debug\Praktika_19.csprojAssemblyReference.cache
+C:\Users\georg\OneDrive\Desktop\Практика\практика 6-7 неделя\Praktika_19\Praktika_19\obj\Debug\Praktika_19.Form1.resources
+C:\Users\georg\OneDrive\Desktop\Практика\практика 6-7 неделя\Praktika_19\Praktika_19\obj\Debug\Praktika_19.Properties.Resources.resources
+C:\Users\georg\OneDrive\Desktop\Практика\практика 6-7 неделя\Praktika_19\Praktika_19\obj\Debug\Praktika_19.csproj.GenerateResource.cache
+C:\Users\georg\OneDrive\Desktop\Практика\практика 6-7 неделя\Praktika_19\Praktika_19\obj\Debug\Praktika_19.csproj.CoreCompileInputs.cache
+C:\Users\georg\OneDrive\Desktop\Практика\практика 6-7 неделя\Praktika_19\Praktika_19\obj\Debug\Praktika_19.exe
+C:\Users\georg\OneDrive\Desktop\Практика\практика 6-7 неделя\Praktika_19\Praktika_19\obj\Debug\Praktika_19.pdb

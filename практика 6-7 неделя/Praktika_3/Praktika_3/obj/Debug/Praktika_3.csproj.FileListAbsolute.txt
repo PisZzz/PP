@@ -1,0 +1,20 @@
+C:\Users\georg\source\repos\Praktika_3\Praktika_3\bin\Debug\Praktika_3.exe.config
+C:\Users\georg\source\repos\Praktika_3\Praktika_3\bin\Debug\Praktika_3.exe
+C:\Users\georg\source\repos\Praktika_3\Praktika_3\bin\Debug\Praktika_3.pdb
+C:\Users\georg\source\repos\Praktika_3\Praktika_3\obj\Debug\Praktika_3.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\Praktika_3\Praktika_3\obj\Debug\Praktika_3.Form1.resources
+C:\Users\georg\source\repos\Praktika_3\Praktika_3\obj\Debug\Praktika_3.Properties.Resources.resources
+C:\Users\georg\source\repos\Praktika_3\Praktika_3\obj\Debug\Praktika_3.csproj.GenerateResource.cache
+C:\Users\georg\source\repos\Praktika_3\Praktika_3\obj\Debug\Praktika_3.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\Praktika_3\Praktika_3\obj\Debug\Praktika_3.exe
+C:\Users\georg\source\repos\Praktika_3\Praktika_3\obj\Debug\Praktika_3.pdb
+C:\Users\georg\OneDrive\Desktop\Практика\практика 6-7 неделя\Praktika_3\Praktika_3\bin\Debug\Praktika_3.exe.config
+C:\Users\georg\OneDrive\Desktop\Практика\практика 6-7 неделя\Praktika_3\Praktika_3\bin\Debug\Praktika_3.exe
+C:\Users\georg\OneDrive\Desktop\Практика\практика 6-7 неделя\Praktika_3\Praktika_3\bin\Debug\Praktika_3.pdb
+C:\Users\georg\OneDrive\Desktop\Практика\практика 6-7 неделя\Praktika_3\Praktika_3\obj\Debug\Praktika_3.csprojAssemblyReference.cache
+C:\Users\georg\OneDrive\Desktop\Практика\практика 6-7 неделя\Praktika_3\Praktika_3\obj\Debug\Praktika_3.Form1.resources
+C:\Users\georg\OneDrive\Desktop\Практика\практика 6-7 неделя\Praktika_3\Praktika_3\obj\Debug\Praktika_3.Properties.Resources.resources
+C:\Users\georg\OneDrive\Desktop\Практика\практика 6-7 неделя\Praktika_3\Praktika_3\obj\Debug\Praktika_3.csproj.GenerateResource.cache
+C:\Users\georg\OneDrive\Desktop\Практика\практика 6-7 неделя\Praktika_3\Praktika_3\obj\Debug\Praktika_3.csproj.CoreCompileInputs.cache
+C:\Users\georg\OneDrive\Desktop\Практика\практика 6-7 неделя\Praktika_3\Praktika_3\obj\Debug\Praktika_3.exe
+C:\Users\georg\OneDrive\Desktop\Практика\практика 6-7 неделя\Praktika_3\Praktika_3\obj\Debug\Praktika_3.pdb

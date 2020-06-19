@@ -1,0 +1,11 @@
+C:\Users\georg\source\repos\Praktika_16\Praktika_16\bin\Debug\Praktika_16.exe.config
+C:\Users\georg\source\repos\Praktika_16\Praktika_16\bin\Debug\Praktika_16.exe
+C:\Users\georg\source\repos\Praktika_16\Praktika_16\bin\Debug\Praktika_16.pdb
+C:\Users\georg\source\repos\Praktika_16\Praktika_16\obj\Debug\Praktika_16.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\Praktika_16\Praktika_16\obj\Debug\Praktika_16.Form1.resources
+C:\Users\georg\source\repos\Praktika_16\Praktika_16\obj\Debug\Praktika_16.Form2.resources
+C:\Users\georg\source\repos\Praktika_16\Praktika_16\obj\Debug\Praktika_16.Properties.Resources.resources
+C:\Users\georg\source\repos\Praktika_16\Praktika_16\obj\Debug\Praktika_16.csproj.GenerateResource.cache
+C:\Users\georg\source\repos\Praktika_16\Praktika_16\obj\Debug\Praktika_16.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\Praktika_16\Praktika_16\obj\Debug\Praktika_16.exe
+C:\Users\georg\source\repos\Praktika_16\Praktika_16\obj\Debug\Praktika_16.pdb

@@ -1,0 +1,10 @@
+C:\Users\georg\OneDrive\Desktop\Практика\практика 6-7 неделя\Praktika_6\Praktika_6\bin\Debug\Praktika_6.exe.config
+C:\Users\georg\OneDrive\Desktop\Практика\практика 6-7 неделя\Praktika_6\Praktika_6\bin\Debug\Praktika_6.exe
+C:\Users\georg\OneDrive\Desktop\Практика\практика 6-7 неделя\Praktika_6\Praktika_6\bin\Debug\Praktika_6.pdb
+C:\Users\georg\OneDrive\Desktop\Практика\практика 6-7 неделя\Praktika_6\Praktika_6\obj\Debug\Praktika_6.csprojAssemblyReference.cache
+C:\Users\georg\OneDrive\Desktop\Практика\практика 6-7 неделя\Praktika_6\Praktika_6\obj\Debug\Praktika_6.Form1.resources
+C:\Users\georg\OneDrive\Desktop\Практика\практика 6-7 неделя\Praktika_6\Praktika_6\obj\Debug\Praktika_6.Properties.Resources.resources
+C:\Users\georg\OneDrive\Desktop\Практика\практика 6-7 неделя\Praktika_6\Praktika_6\obj\Debug\Praktika_6.csproj.GenerateResource.cache
+C:\Users\georg\OneDrive\Desktop\Практика\практика 6-7 неделя\Praktika_6\Praktika_6\obj\Debug\Praktika_6.csproj.CoreCompileInputs.cache
+C:\Users\georg\OneDrive\Desktop\Практика\практика 6-7 неделя\Praktika_6\Praktika_6\obj\Debug\Praktika_6.exe
+C:\Users\georg\OneDrive\Desktop\Практика\практика 6-7 неделя\Praktika_6\Praktika_6\obj\Debug\Praktika_6.pdb

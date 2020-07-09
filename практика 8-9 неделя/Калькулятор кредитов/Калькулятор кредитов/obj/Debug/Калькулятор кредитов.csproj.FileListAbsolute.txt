@@ -1,0 +1,10 @@
+C:\Users\georg\source\repos\Калькулятор кредитов\Калькулятор кредитов\bin\Debug\Калькулятор кредитов.exe.config
+C:\Users\georg\source\repos\Калькулятор кредитов\Калькулятор кредитов\bin\Debug\Калькулятор кредитов.exe
+C:\Users\georg\source\repos\Калькулятор кредитов\Калькулятор кредитов\bin\Debug\Калькулятор кредитов.pdb
+C:\Users\georg\source\repos\Калькулятор кредитов\Калькулятор кредитов\obj\Debug\Калькулятор кредитов.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\Калькулятор кредитов\Калькулятор кредитов\obj\Debug\Калькулятор_кредитов.Form1.resources
+C:\Users\georg\source\repos\Калькулятор кредитов\Калькулятор кредитов\obj\Debug\Калькулятор_кредитов.Properties.Resources.resources
+C:\Users\georg\source\repos\Калькулятор кредитов\Калькулятор кредитов\obj\Debug\Калькулятор кредитов.csproj.GenerateResource.cache
+C:\Users\georg\source\repos\Калькулятор кредитов\Калькулятор кредитов\obj\Debug\Калькулятор кредитов.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\Калькулятор кредитов\Калькулятор кредитов\obj\Debug\Калькулятор кредитов.exe
+C:\Users\georg\source\repos\Калькулятор кредитов\Калькулятор кредитов\obj\Debug\Калькулятор кредитов.pdb
